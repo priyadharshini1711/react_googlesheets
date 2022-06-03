@@ -35,6 +35,7 @@
 
 ## Setup
 - clone or download the project.
-- run the command npm i 
-- create profile in sheet best api and get your own API key 
+- run the command npm i.
+- create profile in sheet best api and get your own API key. 
+- run command npm run start to view the website.
 
