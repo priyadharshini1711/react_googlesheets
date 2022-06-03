@@ -1,6 +1,7 @@
 
 # React Google Sheets
 > This project is used to demonstrate the use of React in frontend and Google Spread Sheet as backend service.
+> Live demo (https://react-google-sheets-sheet-best.netlify.app/)
 
 ## Table of Contents
 * [General Info](#general-information)
